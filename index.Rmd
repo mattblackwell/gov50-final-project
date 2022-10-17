@@ -1,0 +1,14 @@
+---
+title: "Gov 50 Final Project"
+author: "Your Name Here"
+description: "My final project"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+## Project thoughts
+
+I am interested in exploring data related to...
